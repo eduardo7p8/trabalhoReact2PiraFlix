@@ -2,5 +2,4 @@
     <string name="app_name">Netflix</string>
     <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
     <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
-    <string moduleConfig="true" name="CodePushDeploymentKey">UNW9L4cT4kD1F_h-bhxNJuPBFuNAyUkjFt2eS</string>
 </resources>
